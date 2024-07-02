@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Currently building a Animation library",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -71,12 +71,12 @@ export const gridItems = [
 
 export const projects = [
   {
-    id: 1,
-    title: "Booking a Doctor Appointment System",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    id: 1,  
+    title: "Medicure - Doctor Booking Appointment System",
+    des: "Explore the wonders of our Booking appointment system.",
+    img: "/med.png",
+    iconLists: ["/re.svg", "/tail.svg", "/javascript.png", "/mongodb.png", "/nodejs.png"],
+    link: "https://medicure1.netlify.app/",
   },
   {
     id: 2,
@@ -88,10 +88,10 @@ export const projects = [
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+    title: "Vhiyasim3Architects Portfolio",
+    des: "A REAL Architectural portfolio with stages as stipulated in SACAP board notice fee guideline using the latest bootstrap 5.",
     img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/nodejs.png", "/javascript.png", "/c.svg"],
     link: "/ui.aiimg.com",
   },
   {
@@ -173,28 +173,28 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Frontend Freelance Project",
+    desc: "Assisted in the development of a web-based platform using HTML, CSS, JavaScript & Bootstrap, enhancing interactivity.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Personal Portfolio",
+    desc: "Designed and developed portfolio web app using React, NextJS, ThreeJs, Tailwindcss & TypeScript.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance Web Dev Project",
-    desc: "Designed & developed a website for a client, from initial concept to deployment on app stores.",
+    title: "Vhiyasi Architects Website Project",
+    desc: "Designed & developed a website for a client, from initial concept to deployment of the website.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
+    title: "Doctor Booking Appointment System ",
     desc: "Developed and maintained user-facing features using modern frontend technologies.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
