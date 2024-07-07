@@ -72,8 +72,8 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,  
-    title: "Medicure - Doctor Booking Appointment System",
-    des: "Explore the wonders of our Booking appointment system.",
+    title: "Carepulse - Patient management System",
+    des: "Explore the wonders of our Patient management system.",
     img: "/med.png",
     iconLists: ["/re.svg", "/tail.svg", "/javascript.png", "/mongodb.png", "/nodejs.png"],
     link: "https://medicure1.netlify.app/",
@@ -113,27 +113,15 @@ export const testimonials = [
   },
   {
     quote:
-      "Collaborating with Sandile was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Sandile to create my portfolio website was a fantastic experience. His professionalism, attention to detail, and dedication to delivering a high-quality product were evident throughout the entire process. Sandile's technical expertise and creative flair resulted in a website that perfectly showcases my work. I highly recommend Sandile for anyone seeking to build an impressive online presence.",
+    name: "Tshepo Machaba",
+    title: "Professional Senior Architectural Technologist",
   },
   {
     quote:
-      "Collaborating with Sandile was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Sandile was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
-  },
-  {
-    quote:
-      "Collaborating with Sandile was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Sandile was an outstanding experience. His professionalism, timeliness, and commitment to delivering top-notch results were clear throughout our collaboration. Sandile's passion for every aspect of development truly shines. If you're looking to enhance your website and boost your brand, Sandile is the perfect choice.",
+    name: "Mduduzi Gama",
+    title: "Chief Execative Officer - Verge Group",
   },
 ];
 

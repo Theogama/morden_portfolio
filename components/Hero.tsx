@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Sandile, a Next.js Developer based in South Africa.
+            Hi! I&apos;m Sandile, a Software Developer based in South Africa.
           </p>
 
           <a href="#about">
