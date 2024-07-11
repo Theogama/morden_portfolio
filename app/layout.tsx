@@ -7,8 +7,9 @@ import { ThemeProvider } from "./provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Sandile's Portfolio",
-  description: "Modern & Minimal Sandile Gama Portfolio",
+  title: "CreativeGings",
+  description:
+    "Welcome to CreativeGings, your go-to destination for innovative web and software development solutions. At CreativeGings, we specialize in transforming your business ideas into powerful, user-friendly web applications and software that drive success and growth.",
 };
 
 export default function RootLayout({
@@ -19,7 +20,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <link rel="icon" href="/logo-Sandile.svg" sizes="any" />
+        <link rel="icon" href="/favicon.ico" sizes="any" />
       </head>
       <body className={inter.className}>
         <ThemeProvider
@@ -29,7 +30,7 @@ export default function RootLayout({
           disableTransitionOnChange
         >
           {children}
-        </ThemeProvider>
+        </ThemeProvider> 
       </body>
     </html>
   );
