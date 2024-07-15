@@ -74,8 +74,8 @@ export const projects = [
     id: 1,  
     title: "Carepulse - Patient management System",
     des: "Explore the wonders of our Patient management system.",
-    img: "/med.png",
-    iconLists: ["/re.svg", "/tail.svg", "/javascript.png", "/mongodb.png", "/nodejs.png"],
+    img: "/carepulse.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/app.svg", "/nodejs.png"],
     link: "https://medicure1.netlify.app/",
   },
   {
@@ -88,10 +88,10 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Vhiyasim3Architects Portfolio",
-    des: "A REAL Architectural portfolio with stages as stipulated in SACAP board notice fee guideline using the latest bootstrap 5.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/nodejs.png", "/javascript.png", "/c.svg"],
+    title: "ticket Hub",
+    des: "A REAL Event & ticket web aplication where you can create & managange your events.",
+    img: "/tickethub.png",
+    iconLists: ["/re.svg", "/tail.svg", "/nodejs.png", "/ts.svg", "/c.svg"],
     link: "/ui.aiimg.com",
   },
   {
@@ -182,7 +182,7 @@ export const workExperience = [
   },
   {
     id: 4,
-    title: "Doctor Booking Appointment System ",
+    title: "Patient Management System ",
     desc: "Developed and maintained user-facing features using modern frontend technologies.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
